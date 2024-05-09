@@ -141,7 +141,6 @@ const Auction = ({ auction, showOffer }) => {
   )
 }
 
-
 const AddNFT = () => {
   
   const [boxModal] = useGlobalState('boxModal')
@@ -160,4 +159,5 @@ const AddNFT = () => {
     </div>
   )
 }
+
 export default Artworks
