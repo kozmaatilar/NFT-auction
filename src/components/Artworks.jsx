@@ -160,5 +160,4 @@ const AddNFT = () => {
     </div>
   )
 }
-
 export default Artworks
